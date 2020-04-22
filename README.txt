@@ -1,5 +1,3 @@
-CS 122 W’20 Final Project:
-
 README.txt: This file 
 
 data_process.py: Data cleaning
